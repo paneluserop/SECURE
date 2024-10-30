@@ -68,7 +68,7 @@ module.exports = {
             )
 
             .setImage(
-                `https://media.discordapp.net/attachments/1229087570097606699/1234857708180475965/IMG_8189.gif?ex=6632425c&is=6630f0dc&hm=2a876dc74df705d4d6aa74174df5a344309d6a66c5080f771a52756105545527&`,
+                `https://cdn.discordapp.com/attachments/1298702060157669427/1298973358880198696/R5.png?ex=6722c2f6&is=67217176&hm=92ff2129e2587235c0d02de3c45662c9541eb22c2198f40fbfe24725e8cc8de8&`,
             )
 
             .setDescription(
@@ -86,13 +86,13 @@ function embeds(embed, prefix, ping) {
             .setAuthor(
                 client.user.username,
                 client.user.displayAvatarURL(),
-                "https://discord.gg/teamkronix",
+                "https://discord.gg/xUxPhXvfrr",
             )
             .setDescription(`**<:arrow_lucid:1283410747828736121> My Default Prefix Is  ${prefix}**
 
 **<:arrow_lucid:1283410747828736121>  A Best Antinuke Security Bot With Many More Advance Features
 <:arrow_lucid:1283410747828736121>  ${client.user.username} Provides You Best Premium Security Features 
-<:arrow_lucid:1283410747828736121>  [Invite](https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot) | [Support](https://discord.gg/teamkronix) | Total Commands 114**
+<:arrow_lucid:1283410747828736121>  [Invite](https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot) | [Support](https://discord.gg/xUxPhXvfrr) | Total Commands 114**
 
 **Choose One Of The Category Below : **
 
